@@ -72,7 +72,7 @@
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-plastic&logo=npm&logoColor=white)
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-plastic&logo=cpanel&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-plastic&logo=xampp&logoColor=white)
-![Google%20Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-plastic&logo=googleanalytics&
+![Google%20Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-plastic&logo=googleanalytics&)
 
 <!-- 
 ![Red%20Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?style=flat-plastic&logo=redhat&logoColor=white)
